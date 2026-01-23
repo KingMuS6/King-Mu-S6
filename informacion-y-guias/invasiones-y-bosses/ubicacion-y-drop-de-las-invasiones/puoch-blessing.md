@@ -1,3 +1,9 @@
+---
+description: >-
+  Ubicación de Pouch Blessing en Karutan 1 y su drop (Jewels sueltas y Talisman
+  of Luck).
+---
+
 # ▫️ PUOCH BLESSING
 
 **PUOCH BLESSING**, aparece en el mapa **Karutan 1**, no tiene una coordenada exacta lo puedes encontrar por cualquier parte del mapa.
